@@ -1,0 +1,10 @@
+{
+  "description": "My nuxt composable smarthome project",
+  "author": {
+    "name": "Aly Akbar Al Mutsana",
+    "url": "https://github.com/akbarsury"
+  },
+  "repository": "github:akbarsury/text-tranform",
+  "license": "Apache-2.0",
+  "main": "src/index.ts"
+}
